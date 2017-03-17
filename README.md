@@ -37,6 +37,7 @@ Empfohlen
 2. Carl Dea: JavaFX 2.0: Introduction by Example
 
 Zusätzlich empfohlen
+
 3. Jenifer Tidwell: Designing Interfaces
 4. Johannes Siedersleben: Moderne Software-Architektur
 5. Robert C. Martin: Clean Code
