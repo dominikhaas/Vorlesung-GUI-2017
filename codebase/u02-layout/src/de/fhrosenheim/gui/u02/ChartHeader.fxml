@@ -35,17 +35,17 @@
    </rowConstraints>
    <children>
       <Label text="Series" GridPane.rowIndex="1" />
-      <ChoiceBox maxWidth="1.7976931348623157E308" prefWidth="150.0" GridPane.columnIndex="1" GridPane.rowIndex="1" />
+      <ComboBox editable="true" maxWidth="1.7976931348623157E308" prefWidth="150.0" GridPane.columnIndex="1" GridPane.rowIndex="1" />
       <Label text="Measurement" GridPane.rowIndex="2" />
-      <ChoiceBox maxWidth="1.7976931348623157E308" prefWidth="150.0" GridPane.columnIndex="1" GridPane.rowIndex="2" />
+      <ComboBox editable="true" maxWidth="1.7976931348623157E308" prefWidth="150.0" GridPane.columnIndex="1" GridPane.rowIndex="2" />
       <Label text="Host" GridPane.rowIndex="3" />
       <Label text="Metric" GridPane.columnIndex="2" GridPane.rowIndex="1" />
       <Label text="Process" GridPane.rowIndex="4" />
       <Label text="Type" GridPane.rowIndex="5" />
-      <ChoiceBox maxWidth="1.7976931348623157E308" prefWidth="150.0" GridPane.columnIndex="1" GridPane.rowIndex="4" />
-      <ChoiceBox maxWidth="1.7976931348623157E308" prefWidth="150.0" GridPane.columnIndex="1" GridPane.rowIndex="5" />
+      <ComboBox editable="true" maxWidth="1.7976931348623157E308" prefWidth="150.0" GridPane.columnIndex="1" GridPane.rowIndex="4" />
+      <ComboBox editable="true" maxWidth="1.7976931348623157E308" prefWidth="150.0" GridPane.columnIndex="1" GridPane.rowIndex="5" />
       <Label text="Exclude" GridPane.columnIndex="2" GridPane.rowIndex="2" />
-      <ChoiceBox layoutX="118.0" layoutY="10.0" maxWidth="1.7976931348623157E308" prefWidth="150.0" GridPane.columnIndex="3" GridPane.rowIndex="1" />
+      <ComboBox editable="true" layoutX="118.0" layoutY="10.0" maxWidth="1.7976931348623157E308" prefWidth="150.0" GridPane.columnIndex="3" GridPane.rowIndex="1" />
       <TextField GridPane.columnIndex="3" GridPane.rowIndex="2" />
       <TextField maxHeight="1.7976931348623157E308" GridPane.columnIndex="3" GridPane.rowIndex="3" GridPane.rowSpan="2" />
       <CheckBox mnemonicParsing="false" text="Expert Mode (Lucene Query language)" GridPane.columnIndex="3" GridPane.rowIndex="5" />
@@ -68,7 +68,7 @@
         </items>
       </SplitMenuButton>
       <Button maxWidth="1.7976931348623157E308" mnemonicParsing="false" text="Generate Graph" GridPane.columnIndex="7" GridPane.rowIndex="5" />
-      <ChoiceBox prefWidth="150.0" GridPane.columnIndex="1" GridPane.rowIndex="3" />
+      <ComboBox editable="true" prefWidth="150.0" GridPane.columnIndex="1" GridPane.rowIndex="3" />
    </children>
    <padding>
       <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
