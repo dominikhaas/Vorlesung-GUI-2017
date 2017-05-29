@@ -56,6 +56,12 @@ Ziel der Übung ist es, eine (simuliert) langlaufende Aktion außerhalb des UI-
 <a href="docbase/U-07-Parallelitaet.pdf">Übungsblatt 7</a>
 
 
+### Übung 8 - Architektur
+Ziel der Übung ist es, die Oberfläche für eine einfache Kundensuche in mehreren Komponenten umzusetzen. Die Komponenten werden dabei als Maven-Module realisiert.
+
+<a href="docbase/U-08-Architektur.pdf">Übungsblatt 8</a>
+
+
 ### Links
 1. Online Dokumentation und Tutorials zu JavaFX (2015)
 http://docs.oracle.com/javase/8/javase-clienttechnologies.htm
