@@ -61,6 +61,11 @@ Ziel der Übung ist es, die Oberfläche für eine einfache Kundensuche in mehrer
 
 <a href="docbase/U-08-Architektur.pdf">Übungsblatt 8</a>
 
+### Übung 9 - Testen von grafischen Oberflächen
+Ziel der heutigen Übungen ist es, eine Codebasis um Unit-Tests und Oberflächen-Tests zu erweitern.
+
+<a href="docbase/U-09-Testing.pdf">Übungsblatt 9</a>
+
 
 ### Links
 1. Online Dokumentation und Tutorials zu JavaFX (2015)
