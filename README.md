@@ -66,6 +66,10 @@ Ziel der heutigen Übungen ist es, eine Codebasis um Unit-Tests und Oberflächen
 
 <a href="docbase/U-09-Testing.pdf">Übungsblatt 9</a>
 
+### Übung 10 - Web UI
+Ziel der Übung ist es, mit Angular.io eine einfache Login-Maske zu implementieren. Das Layout der Oberfläche erfolgt mit HTML und CSS. Die Logik wird mit TypeScript und Angular.io entwickelt.
+
+<a href="docbase/U-10-Web-UI.pdf">Übungsblatt 10</a>
 
 ### Links
 1. Online Dokumentation und Tutorials zu JavaFX (2015)
